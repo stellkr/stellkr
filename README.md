@@ -7,7 +7,7 @@ Hello, I am **Hwang Ji-ho**, a high school photographer and videographer, and a 
 
 ## 💻 Projects
 
-https://hanbomgo.kr - 한봄고등학교 학생포털)
+https://hanbomgo.kr - 한봄고등학교 학생포털
 
 ## 🛠️ **Skill Sets**
 <div style="display:flex; flex-direction:row;">
