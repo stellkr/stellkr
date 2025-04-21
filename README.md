@@ -27,5 +27,6 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
 
 ## 📞 Contact Me
 
-<a href="https://www.instagram.com/jx.h0__/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-<a href="mailto:neondev723@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://www.instagram.com/jx.h0__/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a> <br>
+<a href="mailto:neondev723@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <br>
+<a href="https://discord.com/users/990129125534601246"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
