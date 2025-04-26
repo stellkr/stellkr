@@ -98,7 +98,7 @@ Passionate about creativity, technology, and continuous learning.
 ---
 
 ## 🚀 개발 예정 프로젝트 | Upcoming Projects
-- 📦 한봄고등학교 학생포털
+- 📦 HB Portal (학생용 포탈사이트 & 어플리케이션)
 - 📦 성경QT 사이트
 
 ---
