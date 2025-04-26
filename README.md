@@ -59,13 +59,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jx.h0__/)  
 [![Discord](https://img.shields.io/badge/Discord-990129125534601246-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/990129125534601246)  
 [![Gmail](https://img.shields.io/badge/neondev723@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neondev723@gmail.com)
-
----
-
-<!-- 개발자 다짐 (선택사항) -->
-<!--
-### ✨ 개발자 다짐 | Developer's Motto
-
-> **"꾸준함이 모든 것을 이긴다."**  
-> "Consistency beats everything."
--->
