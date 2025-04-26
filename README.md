@@ -91,18 +91,18 @@ Passionate about creativity, technology, and continuous learning.
 
 ## 📅 대표 프로젝트 | Projects
 
-[![Hanbomgo Student Portal](https://img.shields.io/badge/한봄고등학교_학생포털-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://hanbomgo.kr)
-[![HB Portal](https://img.shields.io/badge/HB_Portal-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://hbportal.netlify.app/)
+[![HB Portal](https://img.shields.io/badge/한봄고등학교_학생포털-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://hanbomgo.kr)
+[![성경QT 사이트](https://img.shields.io/badge/HB_Portal-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)]
 
 
 ---
 
-## 🚀 개발 예정 프로젝트 | Upcoming Projects
+<!-- ## 🚀 개발 예정 프로젝트 | Upcoming Projects
 - 📦 HB Portal (학생용 포탈사이트 & 어플리케이션)
-- 📦 성경QT 사이트
+- 📦 성경QT 사이트!
 
 ---
-
+-->
 ## 📊 GitHub 활동 통계 | GitHub Stats
 
 ![Stellkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=stellkr&show_icons=true&theme=tokyonight)
