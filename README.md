@@ -120,7 +120,8 @@ Passionate about creativity, technology, and continuous learning.
 #### 🏆 수상 경력 | Awards
 <p>
   <img src="https://img.shields.io/badge/제2회_경운대학교_지능형_모빌리티_SW_경진대회-은상-9CA3AF?style=for-the-badge&logo=trophy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/2023학년_한봄고등학교_프로그래밍_경진대회-금상-FACC15?style=for-the-badge&logo=trophy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/2023학년_한봄고등학교_프로그래밍_경진대회-금상-FACC15?style=for-the-badge&logo=trophy&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/2024학년_한봄고등학교_프로그래밍_경진대회-동상-9CA3AF?style=for-the-badge&logo=trophy&logoColor=white"/>
 </p>
 
 #### 📜 자격증 취득 | Certifications
