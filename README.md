@@ -91,8 +91,8 @@ Passionate about creativity, technology, and continuous learning.
 
 ## 📅 대표 프로젝트 | Projects
 
-[![HB Portal](https://img.shields.io/badge/한봄고등학교_학생포털-0d1117?style=for-the-badge&logo=netlify&logoColor=white)(https://hanbomgo.kr)
-[![성경QT 사이트](https://img.shields.io/badge/HB_Portal-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)
+[![한봄고등학교_학생포털](https://img.shields.io/badge/한봄고등학교_학생포털-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://hanbomgo.kr)
+![HB_Porta](https://img.shields.io/badge/HB_Portal-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ---
