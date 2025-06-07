@@ -93,6 +93,8 @@ Passionate about creativity, technology, and continuous learning.
 
 [![한봄고등학교_학생포털](https://img.shields.io/badge/한봄고등학교_학생포털-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://hanbomgo.kr)
 ![HB_Porta](https://img.shields.io/badge/HB_Portal-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)
+![데이토리ㅣDatory](https://img.shields.io/badge/데이토리ㅣDatory-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)
+![내 손으로 미래잡기(모의입사사이트)](https://img.shields.io/badge/내_손으로_미래잡기(모의입사사이트)-제작중-0d1117?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ---
